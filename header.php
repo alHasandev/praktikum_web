@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="lib/style.css">
+    <link rel="stylesheet" href="lib/new_style.css">
     <link rel="stylesheet" href="lib/jquery-ui.css">
     <title>Praktikum Web</title>
 </head>
